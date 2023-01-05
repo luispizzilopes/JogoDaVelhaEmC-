@@ -1,0 +1,15 @@
+C:\Users\LUIS FELIPE\source\repos\JogoDaVelhaPOO\JogoDaVelhaPOO\bin\Debug\net6.0\JogoDaVelhaPOO.exe
+C:\Users\LUIS FELIPE\source\repos\JogoDaVelhaPOO\JogoDaVelhaPOO\bin\Debug\net6.0\JogoDaVelhaPOO.deps.json
+C:\Users\LUIS FELIPE\source\repos\JogoDaVelhaPOO\JogoDaVelhaPOO\bin\Debug\net6.0\JogoDaVelhaPOO.runtimeconfig.json
+C:\Users\LUIS FELIPE\source\repos\JogoDaVelhaPOO\JogoDaVelhaPOO\bin\Debug\net6.0\JogoDaVelhaPOO.dll
+C:\Users\LUIS FELIPE\source\repos\JogoDaVelhaPOO\JogoDaVelhaPOO\bin\Debug\net6.0\JogoDaVelhaPOO.pdb
+C:\Users\LUIS FELIPE\source\repos\JogoDaVelhaPOO\JogoDaVelhaPOO\obj\Debug\net6.0\JogoDaVelhaPOO.csproj.AssemblyReference.cache
+C:\Users\LUIS FELIPE\source\repos\JogoDaVelhaPOO\JogoDaVelhaPOO\obj\Debug\net6.0\JogoDaVelhaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS FELIPE\source\repos\JogoDaVelhaPOO\JogoDaVelhaPOO\obj\Debug\net6.0\JogoDaVelhaPOO.AssemblyInfoInputs.cache
+C:\Users\LUIS FELIPE\source\repos\JogoDaVelhaPOO\JogoDaVelhaPOO\obj\Debug\net6.0\JogoDaVelhaPOO.AssemblyInfo.cs
+C:\Users\LUIS FELIPE\source\repos\JogoDaVelhaPOO\JogoDaVelhaPOO\obj\Debug\net6.0\JogoDaVelhaPOO.csproj.CoreCompileInputs.cache
+C:\Users\LUIS FELIPE\source\repos\JogoDaVelhaPOO\JogoDaVelhaPOO\obj\Debug\net6.0\JogoDaVelhaPOO.dll
+C:\Users\LUIS FELIPE\source\repos\JogoDaVelhaPOO\JogoDaVelhaPOO\obj\Debug\net6.0\refint\JogoDaVelhaPOO.dll
+C:\Users\LUIS FELIPE\source\repos\JogoDaVelhaPOO\JogoDaVelhaPOO\obj\Debug\net6.0\JogoDaVelhaPOO.pdb
+C:\Users\LUIS FELIPE\source\repos\JogoDaVelhaPOO\JogoDaVelhaPOO\obj\Debug\net6.0\JogoDaVelhaPOO.genruntimeconfig.cache
+C:\Users\LUIS FELIPE\source\repos\JogoDaVelhaPOO\JogoDaVelhaPOO\obj\Debug\net6.0\ref\JogoDaVelhaPOO.dll
